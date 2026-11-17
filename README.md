@@ -1,10 +1,7 @@
+# Hi, I'm Arghavan! 💜
+### Welcome to my SafeZone!
 
 
-# Hi, I'm Arghavan!💜
-
-
-
-#### Welcome to my SafeZone!
 I'm a **M.Sc. student in Software Engineering** with a strong interest in Artificial Intelligence, Machine Learning, and Data Science. My current research focus is on Continual Learning, which I'm exploring as part of my master's thesis.
 
 Beyond AI research, I'm passionate about software engineering principles, especially Object-Oriented Programming, Software Architecture, Design Patterns, and SOLID principles. I also have a long-standing interest in Game Development, which I enjoy exploring through personal projects.
@@ -13,16 +10,17 @@ Feel free to challenge me anytime! I have a strong soft spot for complex problem
 
 ---
 
-#### What I'm Currently Working On:
+### What I'm Currently Working On
+
 - Completing my M.Sc. in Software Engineering.
 - Exploring Continual Learning as my thesis research direction.
 - Developing independent research projects in Artificial Intelligence and Machine Learning, driven by my personal interests.
-- Occasionally working on personal Game Development projects using Unity.
+- Occasionally working on personal Game Development projects with Unity.
 - Working as a Teaching Assistant at my university.
 
 ---
 
-#### Research Interests:
+### Research Interests
 
 - Continual Learning
 - Machine Learning & Deep Learning
@@ -31,7 +29,7 @@ Feel free to challenge me anytime! I have a strong soft spot for complex problem
 
 ---
 
-#### Software Engineering Interests:
+### Software Engineering Interests
 
 - Object-Oriented Programming (OOP)
 - Software Architecture and Design
@@ -42,56 +40,48 @@ Feel free to challenge me anytime! I have a strong soft spot for complex problem
 
 ---
 
-#### Technologies & Tools:
+### Technologies & Tools
 
-***Programming Languages***
+**Programming Languages**
 
-Python · C# · Java · C++
+![Python](https://img.shields.io/badge/Python-9B8BC4?style=flat-square&logo=python&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-9B8BC4?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-9B8BC4?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-9B8BC4?style=flat-square&logo=cplusplus&logoColor=white)
 
-***Machine Learning & Data Science***
+**Machine Learning & Data Science**
 
-PyTorch · Scikit-learn · NumPy · Pandas
+![PyTorch](https://img.shields.io/badge/PyTorch-B49AD9?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-B49AD9?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-B49AD9?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-B49AD9?style=flat-square&logo=pandas&logoColor=white)
 
-***Game Development***
+**Game Development & Tools**
 
-Unity · C#
-
-***Development Tools***
-
-Git · GitHub · Jupyter Notebook
+![Unity](https://img.shields.io/badge/Unity-C8B6E2?style=flat-square&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-C8B6E2?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-C8B6E2?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-C8B6E2?style=flat-square&logo=jupyter&logoColor=white)
 
 *This section is continuously evolving as I explore new technologies and tools.*
 
 ---
 
-#### A Little More About Me...
+### A Little More About Me
 
-- A bookworm and lifelong learner.
-- A curious problem-solver who enjoys tackling challenging problems
-- An adventurer who loves discovering new places and experiences
-- A gaming enthusiast, especially when it comes to Minecraft!
-- Always curious, always exploring, and always learning
+-  A bookworm and lifelong learner.
+-  A curious problem-solver who enjoys tackling challenging problems.
+-  An adventurer who loves discovering new places and experiences.
+-  A gaming enthusiast, especially when it comes to Minecraft!
+-  Always curious, always exploring, and always learning.
 
 ---
 
-#### Beyond Coding...
-- Books: Fantasy lover, especially Harry Potter
-- Music: A big Scorpions fan. Some favorites: Born to Touch Your Feelings and Love Will Keep Us Alive
-- Favorite Game: Minecraft
-- Creative Hobbies: Sewing, crocheting, and of course, reading
- ---
+### Beyond Coding...
 
-<!--
-**ArghavanHabibiBibalani/ArghavanHabibibibalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **Books:** Fantasy lover, especially Harry Potter.
+-  **Music:** A big Scorpions fan. Some favorites: *Born to Touch Your Feelings* and *Love Will Keep Us Alive*.
+-  **Favorite Game:** Minecraft.
+-  **Creative Hobbies:** Sewing, crocheting, and reading.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
